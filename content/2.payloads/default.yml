@@ -1,0 +1,8 @@
+title: Payloads
+content: |
+    <div class="jumbotron">
+      <H1>Payloads</h1>
+        <a class="btn btn-primary" href="#" role="button">Find »</a>
+        <a class="btn btn-success" href="/stacey" role="button">Curate »</a>
+      </p>
+    </div>
